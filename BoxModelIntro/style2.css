@@ -1,1 +1,19 @@
+#border1 {
+  border: 1px solid black;
+}
 
+#border4{
+
+  width: 50%;
+  background-color: maroon;
+}
+
+#margin5{
+  background-color: maroon;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#floatyImg {
+  float: left;
+}
